@@ -12,7 +12,7 @@ endif
 let g:colors_name = "codeschool"
 
 hi Normal                       ctermfg=231  ctermbg=NONE cterm=NONE         guifg=#f0f0f0 guibg=#252c31 gui=NONE
-hi NonText                      ctermfg=59   ctermbg=233  cterm=NONE         guifg=#414e58 guibg=#232c31 gui=NONE
+hi NonText                      ctermfg=59   ctermbg=NONE cterm=NONE         guifg=#414e58 guibg=#232c31 gui=NONE
 hi Cursor                       ctermfg=16   ctermbg=145  cterm=NONE         guifg=#182227 guibg=#9ea7a6 gui=NONE
 hi Visual                       ctermfg=NONE ctermbg=59   cterm=NONE         guifg=NONE    guibg=#3f4b52 gui=NONE
 hi CursorLine                   ctermfg=NONE ctermbg=237  cterm=NONE         guifg=NONE    guibg=#2e373b gui=NONE
